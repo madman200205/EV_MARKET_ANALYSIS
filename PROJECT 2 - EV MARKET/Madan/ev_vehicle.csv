@@ -1,0 +1,39 @@
+State,Direction,Two Wheelers,Three Wheelers,Four Wheelers,Power Station
+Jammu Kashmir,North,2481,130,0,5
+Arunachal Pradesh,North,1,1,0,2
+Himachal Pradesh,North,879,172,0,7
+The Dadra and Nagar Haveli and Daman and Diu,North,62,24,0,8
+Ladakh,North,20,0,0,18
+Punjab,North,8376,261,3,11
+Haryana,North,12656,213,272,55
+Chandigarh,North,622,76,0,6
+Delhi,North,30323,9378,2239,322
+Uttarakhand,North,4289,2789,21,6
+Rajasthan,West,42421,1857,28,27
+Gujarat,West,45360,1051,66,27
+Maharashtra,West,91971,2607,483,88
+Goa,West,3353,33,2,50
+Uttar Pradesh,Central,21844,11283,27,108
+Madhya Pradesh,Central,17415,3616,15,27
+Bihar,East,9112,5253,2,3
+Jharkhand,East,5334,923,53,7
+Chhattisgarh,East,11527,2738,14,4
+Odisha,East,18869,815,31,2
+West Bengal,East,6346,1125,71,22
+Andaman and Nicobar Islands,East,2,0,2,70
+Telangana,South,23296,1560,225,65
+Karnataka,South,83844,4310,891,58
+Andhra Pradesh,South,22550,2230,2,138
+Puducherry,South,1013,10,5,1
+Kerala,South,22419,2489,11,57
+Tamil Nadu,South,64996,1826,14,94
+Lakshadweep,South,4,2,0,5
+Meghalaya,North East,22,10,0,1
+Assam,North East,1545,1204,1,7
+Nagaland,North East,4,0,0,2
+Manipur,North East,54,204,0,1
+Tripura,North East,121,1734,0,2
+Mizoram,North East,9,0,0,8
+Sikkim,North East,5,1,0,4
+Jaipur,North East,13456,150,556,50
+,,,,,
